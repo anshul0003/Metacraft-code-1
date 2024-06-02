@@ -35,3 +35,18 @@ mintNFT("NFT2", "Description of NFT2", "image2.jpg");
 listNFTs();
 
 console.log("Total NFTs minted: " + getTotalSupply());
+
+
+
+OUTPUT OF THE CODE 
+Name: NFT1
+Description: Description of NFT1
+Image: image1.jpg
+
+
+Name: NFT2
+Description: Description of NFT2
+Image: image2.jpg
+
+
+Total NFTs minted: 2
